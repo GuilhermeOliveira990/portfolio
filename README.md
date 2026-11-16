@@ -5,7 +5,7 @@
 
 **Tecnologias utilizadas:** HTML, CSS, Bootstrap 5, JavaScript, GitHub Pages
 
-**Link do site publicado:** https://GuilhermeOliveira990.github.io/portfolio/
+**Link do site publicado:** https://GuilhermeOliveira990.github.io/portifolio/
 
 ## Funcionamento do projeto
 Site com menu de navegação, carousel inicial, perfil, 3 projetos com cards, contato e rodapé. Responsivo.
